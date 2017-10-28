@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">deBono Random Word Generator</string>
+    <string name="get_word">Get Random Word</string>
+</resources>
